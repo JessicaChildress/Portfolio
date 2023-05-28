@@ -1,7 +1,7 @@
 # Jessica Childress Project Portfolio
 
 ## Description
-This Repository serves as a portfolio containing my data science projects. The goal is to showcase my unique skillset through projects that interest me.
+The goal of this Repository is to serves as a portfolio showcasing my unique skillset through various data science projects:
 
 1. Statistyical Analysis of popular shows and movies on various streaming services. 
   * SKILLS: Python, Jupyter Notebooks, Statistics, Data Cleaning, Exploratory Data Analysis
